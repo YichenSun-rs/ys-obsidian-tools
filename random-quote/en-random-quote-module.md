@@ -1,5 +1,5 @@
 <%*
-const baseName = "$FILEPATH"; 
+const baseName = "$FILENAME"; 
 // As long as the file name stays the same, moving the file will not break this.
 
 const matches = app.vault.getMarkdownFiles()
